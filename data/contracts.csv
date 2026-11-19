@@ -1,0 +1,16 @@
+contract_id,agreement_type,counterparty,business_owner,department,request_date,review_start_date,signature_date,expiration_date,status,contract_value,risk_level,auto_renewal
+CTR-001,MSA,NovaCloud Inc.,Alex Chen,Engineering,2026-01-05,2026-01-06,2026-01-15,2027-01-15,Signed,120000,Medium,Yes
+CTR-002,NDA,PixelForge Labs,Sarah Kim,Product,2026-02-01,2026-02-01,2026-02-03,2028-02-03,Signed,0,Low,No
+CTR-003,SOW,DataStream AI,Michael Lee,Engineering,2026-02-10,2026-02-12,2026-02-25,2027-02-25,Signed,85000,Medium,No
+CTR-004,SaaS Agreement,SecureStack LLC,Emily Wong,IT,2026-03-02,2026-03-04,2026-03-18,2027-03-18,Signed,65000,High,Yes
+CTR-005,DPA,VisionAI Corp.,Daniel Park,Security,2026-03-15,2026-03-16,2026-03-22,2027-03-22,Signed,0,High,No
+CTR-006,NDA,RenderWorks Inc.,Jessica Liu,Sales,2026-04-01,2026-04-01,2026-04-02,2028-04-02,Signed,0,Low,No
+CTR-007,MSA,ComputeGrid Corp.,Ryan Patel,Infrastructure,2026-04-10,2026-04-12,2026-04-28,2027-04-28,Signed,250000,High,Yes
+CTR-008,Order Form,CloudScale Systems,Amanda Chen,Finance,2026-05-05,2026-05-06,2026-05-14,2027-05-14,Signed,95000,Medium,Yes
+CTR-009,SOW,ModelWorks AI,Kevin Zhang,Product,2026-06-03,2026-06-05,2026-06-19,2027-06-19,Signed,175000,Medium,No
+CTR-010,NDA,CreativeGen Labs,Lisa Park,Partnerships,2026-07-08,2026-07-08,2026-07-09,2028-07-09,Signed,0,Low,No
+CTR-011,MSA,Inference Systems Inc.,Chris Johnson,Engineering,2026-08-01,2026-08-03,,2027-08-01,Legal Review,320000,High,Yes
+CTR-012,SaaS Agreement,MetricFlow Inc.,Rachel Kim,Finance,2026-08-15,2026-08-16,,2027-08-15,Negotiation,48000,Medium,Yes
+CTR-013,DPA,AgentStack AI,David Chen,Security,2026-09-01,2026-09-02,,2027-09-01,Legal Review,0,High,No
+CTR-014,NDA,GenMedia Labs,Sophia Lee,Sales,2026-09-10,2026-09-10,,2028-09-10,Pending Signature,0,Low,No
+CTR-015,SOW,ComputeWorks LLC,James Park,Infrastructure,2026-10-02,2026-10-04,,2027-10-02,Business Approval,140000,Medium,No
